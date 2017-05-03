@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:DAA2AFB0-9D3F-4419-9D9F-08EE8D580C27</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-08-08T14:17:52-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:B7D561E6-1573-4B82-B70F-F04DDB9FB598</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">B7D561E6-1573-4B82-B70F-F04DDB9FB598</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2012-08-08T14:17:52.001-04:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E0BDA2AB-41A0-4F44-A07C-D7DBA4C23309</id>
+  <title>Get Started</title>
+  <title xmlns="urn:iweb:">Get Started</title>
+  <in-navbar xmlns="urn:iweb:">E0BDA2AB-41A0-4F44-A07C-D7DBA4C23309</in-navbar>
+  <link rel="alternate" href="Get_Started.html"/>
+  <updated>2012-08-08T14:17:52.002-04:00</updated>
+  <content>Get Started</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0B6ADE47-2A64-412A-8994-0EFF08995D00</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">0B6ADE47-2A64-412A-8994-0EFF08995D00</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2012-08-08T14:17:52.003-04:00</updated>
+  <content>Contact</content>
+ </entry>
+</feed>
